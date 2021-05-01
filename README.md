@@ -7,4 +7,4 @@ This is the Netflix website.
 3. Then you will be directed to movies page.
 4. On movies page any higher functionality is not provided.
 5. If you wanna log out you can just click on Top most right corner "Log Out" button.
-6. 
+6. Try to download all files and try to run locally then it will work fine.
